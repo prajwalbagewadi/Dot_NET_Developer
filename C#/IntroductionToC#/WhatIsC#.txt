@@ -1,0 +1,38 @@
+C# (pronounced C-sharp) 
+
+Designed by	Anders Hejlsberg (Microsoft)
+Developer	Mads Torgersen (Microsoft)
+
+is a modern, object-oriented programming language 
+developed by Microsoft as part of its .NET initiative. 
+
+It's designed to be simple, powerful, and easy to use, 
+combining the best features of both C++ and Java. 
+
+C# is widely used for building a range of applications, 
+from web services and enterprise software to mobile apps and video games. 
+
+Key Features:
+
+    1.Object-Oriented: Follows OOP principles (classes, objects, inheritance).
+
+    2.Simple & Powerful: Easy to learn but powerful for complex applications.
+
+    3.Cross-Platform: Can run on Windows, Linux, and macOS via .NET Core.
+
+    4.Type-Safe: Prevents errors with data types (e.g., no mixing strings and numbers).
+
+    5.Garbage Collection: Automatically manages memory.
+
+    6.Rich Libraries: Large collection of built-in libraries for various tasks.
+
+Common Uses:
+
+    1.Web Apps: Through ASP.NET.
+
+    2.Mobile Apps: Using Xamarin.
+
+    3.Games: With Unity.
+
+    4.Desktop Apps: Windows Forms & WPF.
+

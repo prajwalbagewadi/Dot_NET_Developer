@@ -1,0 +1,48 @@
+### **.NET Framework vs. .NET Core (Now .NET 5+)**
+
+---
+
+### **.NET Framework:**
+- **Platform**: **Windows-only**.
+- **Main Use**: Building **Windows apps** (desktop, web).
+- **Features**: 
+  - Large set of libraries.
+  - Not cross-platform.
+  - Ideal for older Windows apps.
+
+---
+
+### **.NET Core** (Now **.NET 5+**):
+- **Platform**: **Cross-platform** (Windows, Linux, macOS).
+- **Main Use**: Building **modern apps**, **web apps**, and **microservices**.
+- **Features**: 
+  - Open-source.
+  - High performance.
+  - Modular and lightweight.
+  - Supports **cloud apps** and **containers** (like Docker).
+
+---
+
+### **Key Differences**:
+- **Platform**: .NET Framework = **Windows only**; .NET Core = **cross-platform**.
+- **Performance**: .NET Core = **better performance**.
+- **Open-source**: .NET Core is **open-source**, Framework is not.
+
+---
+
+**When to Use**:
+- **.NET Framework**: For **Windows-only** apps and legacy projects.
+- **.NET Core**: For **cross-platform** apps, **cloud**, and **modern web**.
+
+---
+
+Feature	                    .NET Framework	            .NET Core
+Platform Support	        Windows only	            Cross-platform (Windows, Linux, macOS)
+Open Source	                No	                        Yes
+Performance	                Moderate	                High
+Modular	                    No	                        Yes
+Web Framework	            ASP.NET	                    ASP.NET Core
+Windows Apps	            Yes (WPF, Windows Forms)	No (but can use Windows Desktop APIs in .NET Core 3.0+)
+Mobile Development	        No	                        Yes (via Xamarin)
+Support for Microservices	Limited	                    Strong, with Docker and Kubernetes support
+Updates	                    Infrequent, legacy support	Frequent, with new features every year
