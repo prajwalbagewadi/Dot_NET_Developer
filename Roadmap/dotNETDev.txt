@@ -1,0 +1,82 @@
+
+---
+
+### 📘 **C# Basics**
+
+1. **Introduction to C#**
+   - What is C#?
+   - Features of C#
+   - .NET Framework and .NET Core basics
+
+2. **Writing Your First C# Program**
+   - Structure of a C# program
+   - `Main()` method
+   - Compiling and running programs
+
+3. **Variables and Data Types**
+   - Value types (`int`, `float`, `char`, `bool`, etc.)
+   - Reference types (`string`, `object`)
+   - Type conversion (casting)
+
+4. **Operators**
+   - Arithmetic operators (`+`, `-`, `*`, `/`, `%`)
+   - Comparison operators (`==`, `!=`, `>`, `<`)
+   - Logical operators (`&&`, `||`, `!`)
+   - Assignment operators (`=`, `+=`, `-=`, etc.)
+
+5. **Conditional Statements**
+   - `if`, `else if`, `else`
+   - `switch` statement
+
+6. **Loops**
+   - `for` loop
+   - `while` loop
+   - `do-while` loop
+   - `foreach` loop
+
+7. **Methods (Functions)**
+   - Defining and calling methods
+   - Method parameters and return values
+   - Method overloading
+
+8. **Arrays**
+   - Single-dimensional arrays
+   - Multi-dimensional arrays
+   - `foreach` with arrays
+
+9. **Strings**
+   - String manipulation (`Concat`, `Substring`, `Replace`, `Split`)
+   - String interpolation (`$"Hello {name}"`)
+   - Escape sequences (`\n`, `\t`)
+
+10. **Object-Oriented Programming (OOP) Basics**
+    - Classes and Objects
+    - Constructors
+    - Properties and Fields
+    - `this` keyword
+
+11. **Access Modifiers**
+    - `public`, `private`, `protected`, `internal`
+
+12. **Inheritance and Polymorphism**
+    - Base and Derived classes
+    - Method Overriding
+    - `virtual` and `override` keywords
+
+13. **Interfaces and Abstract Classes**
+    - Interface basics
+    - Abstract methods and classes
+
+14. **Exception Handling**
+    - `try`, `catch`, `finally`
+    - Throwing exceptions
+
+15. **Collections (Intro)**
+    - List, Dictionary, Queue, Stack basics
+
+16. **Namespace and Using Directive**
+    - Organizing code using `namespace`
+    - Importing libraries with `using`
+
+---
+
